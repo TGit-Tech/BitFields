@@ -1,0 +1,11 @@
+#######################################
+# BitField Library Keywords
+#######################################
+
+BitField	KEYWORD1
+
+setValue	KEYWORD2
+getValue	KEYWORD2
+totalBytes	KEYWORD2
+
+buff	LITERAL1
